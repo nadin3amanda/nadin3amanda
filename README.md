@@ -35,11 +35,13 @@
 
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nadin3amanda&theme=react-dark&hide_border=true&area=true)
     
-</div>
+
 
  <a href="https://www.buymeacoffee.com/nadineamanda">
       <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nadineamanda"/>
     </a>
+    
+    </div>
 <!--
 **nadin3amanda/nadin3amanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
