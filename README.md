@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 😸
 <div align="center" height="200px" display="flex">
-    <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts" width="200px" height="200px"  alt="hello doodle">
+    <img src="https://media3.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif?cid=ecf05e47xt0jdpiuudi6ayj4v3bkpuzw142j3b592j1bibsd&rid=giphy.gif&ct=s" width="200px" height="200px"  alt="hello doodle">
   <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" width="300px" height="300px"  alt="girl coding"> </img>
   <br>
   <i>Happy Coding!</i> 😊
 
-### 🛠 &nbsp;Tech Stack 
+### 👩‍💻 &nbsp;Tech Stack 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
@@ -26,7 +26,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
     
-### ⚙️ &nbsp;GitHub Analytics
+### 📈 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nadin3amanda">
@@ -35,10 +35,6 @@
 
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nadin3amanda&theme=react-dark&hide_border=true&area=true)
     
-    </a>
-
-    
-    </p>
 </div>
 
 <!--
