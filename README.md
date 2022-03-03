@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center" height="200px" display="flex">
-    <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts" width="150px" height="150px"  alt="hello doodle">
-  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" width="300px" height="400px"  alt="girl coding"> </img>
+    <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts" width="200px" height="200px"  alt="hello doodle">
+  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" width="300px" height="300px"  alt="girl coding"> </img>
   <br>
   <i>Happy Coding!</i> 😊
 
@@ -32,9 +32,13 @@
 <a href="https://github.com/nadin3amanda">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nadin3amanda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadin3amanda&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nadin3amanda&theme=react-dark&hide_border=true&area=true)
+    
+    </a>
+
+    
+    </p>
 </div>
 
 <!--
