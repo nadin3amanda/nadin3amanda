@@ -2,13 +2,9 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 <div align="center">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/> <br>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB"></a></p><br>
   <i>Happy Coding!</i> 😊
 </div>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadin3amanda)](https://github.com/nadin3amanda/github-readme-stats)" alt="Nadine's Github Stats">
-
-</br>
 </br>
 
 ### 🛠 &nbsp;Tech Stack
