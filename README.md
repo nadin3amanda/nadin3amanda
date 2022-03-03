@@ -5,7 +5,7 @@
   <br>
   <i>Happy Coding!</i> 😊
   </div>
-<p align="center">
+<div="center">
 ### 🛠 &nbsp;Tech Stack 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
@@ -25,7 +25,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-</p>
+</div>
 
 <div align="center">
 ### ⚙️ &nbsp;GitHub Analytics
