@@ -35,7 +35,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadin3amanda&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nadin3amanda&theme=react-dark&hide_border=true&area=true)
 </div>
 
 <!--
