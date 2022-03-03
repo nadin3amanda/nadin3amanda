@@ -1,11 +1,11 @@
 ### Hi there 👋
-<div align="center">
+<div align="center" height="200px">
     <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts" width="150px" height="150px" align="left" alt="hello doodle">
   <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" alt="girl coding"> </img>
   <br>
   <i>Happy Coding!</i> 😊
   </div>
-
+<p align="center">
 ### 🛠 &nbsp;Tech Stack 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
@@ -25,6 +25,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+</p>
 
 <div align="center">
 ### ⚙️ &nbsp;GitHub Analytics
