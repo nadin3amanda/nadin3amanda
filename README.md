@@ -2,7 +2,8 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB"></a></p><br>
+  <img src="https://giphy.com/gifs/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" </img>
+  <br>
   <i>Happy Coding!</i> 😊
 </div>
 </br>
