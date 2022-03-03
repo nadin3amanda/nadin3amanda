@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+    <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts"></img>
 <div align="center">
   <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" </img>
   <br>
