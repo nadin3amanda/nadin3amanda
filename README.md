@@ -4,7 +4,6 @@
   <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" alt="girl coding"> </img>
   <br>
   <i>Happy Coding!</i> 😊
-</div>
 </br>
 </br>### 🛠 &nbsp;Tech Stack
 
