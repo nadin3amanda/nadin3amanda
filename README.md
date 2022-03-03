@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
-    <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts"></img>
+    <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts" width="150px" height="150px"></img>
 <div align="center">
-  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" </img>
+  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" alt="girl coding"> </img>
   <br>
   <i>Happy Coding!</i> 😊
 </div>
