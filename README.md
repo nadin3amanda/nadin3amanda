@@ -2,7 +2,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 <div align="center">
-  <img src="https://giphy.com/gifs/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" </img>
+  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" </img>
   <br>
   <i>Happy Coding!</i> 😊
 </div>
