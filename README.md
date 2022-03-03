@@ -3,14 +3,13 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 <div align="center">
 <i>Happy Coding!</i> 😊
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadin3amanda)](https://github.com/anuraghazra/github-readme-stats)" alt="Nadine's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadin3amanda)](https://github.com/nadin3amanda/github-readme-stats)" alt="Nadine's Github Stats">
 
 </br>
 </br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
