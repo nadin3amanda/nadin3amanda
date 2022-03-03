@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center" height="200px" display="flex">
     <img src="https://media2.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif?cid=790b7611a6116f50a22a369ead27a8feac99df7a9c900220&rid=giphy.gif&ct=ts" width="150px" height="150px"  alt="hello doodle">
-  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" width="300px" height="300px"  alt="girl coding"> </img>
+  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" width="300px" height="400px"  alt="girl coding"> </img>
   <br>
   <i>Happy Coding!</i> 😊
 
@@ -24,8 +24,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-</div>   
-    
+
     
 ### ⚙️ &nbsp;GitHub Analytics
 
