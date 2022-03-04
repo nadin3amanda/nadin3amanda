@@ -1,4 +1,4 @@
-### Hi there 😸
+### Welcome! 😸
 <div align="center" height="200px" display="flex">
     <img src="https://media3.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif?cid=ecf05e47xt0jdpiuudi6ayj4v3bkpuzw142j3b592j1bibsd&rid=giphy.gif&ct=s" width="200px" height="200px"  alt="hello doodle">
   <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761171a363634a8209bdb4888c809795dc8d98bda51c&rid=giphy.gif&ct=s" width="300px" height="300px"  alt="girl coding"> </img>
